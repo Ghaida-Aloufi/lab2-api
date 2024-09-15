@@ -1,0 +1,12 @@
+#div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.div2 {
+  box-shadow: 7px 6px 13px 0px #0000006e;
+
+
+}
